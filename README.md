@@ -1,24 +1,8 @@
 # vuex-books
 
-## Project setup
-```
-npm install
-```
+『これからはじめるVue.js実践入門』(https://www.sbcr.jp/product/4815601829/) の 『Chapter9 Vuex』を学習中
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+ゲッターで、ステートの内容を加工したり取得したりする
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## デプロイ先
+https://jovial-einstein-6a0603.netlify.app
